@@ -1,0 +1,11 @@
+pandas
+numpy
+psycopg2
+sqlalchemy
+request
+tabpy-server
+### System libraries ###
+#time
+#json
+#sys
+#csv
